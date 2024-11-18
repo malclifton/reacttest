@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/malclifton/reacttest.git/static/css/main.1208bd82.css",
+    "main.js": "/malclifton/reacttest.git/static/js/main.8b493897.js",
+    "index.html": "/malclifton/reacttest.git/index.html",
+    "main.1208bd82.css.map": "/malclifton/reacttest.git/static/css/main.1208bd82.css.map",
+    "main.8b493897.js.map": "/malclifton/reacttest.git/static/js/main.8b493897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1208bd82.css",
+    "static/js/main.8b493897.js"
+  ]
+}
